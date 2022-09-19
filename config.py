@@ -5,3 +5,5 @@ print('51654613')
 dd = 88
 hh = 99
 zz = 100
+print(dd)
+print(zz)
